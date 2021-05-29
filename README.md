@@ -1,4 +1,4 @@
-Pytorch Implementation of Tensor Holography.
+A Pytorch Implementation of Tensor Holography.
 
 This code is refer to the paper below.
 
@@ -10,3 +10,4 @@ volume = 592,
 month = Mar,  
 year = 2021,  
 }
+website: http://cgh.csail.mit.edu/
